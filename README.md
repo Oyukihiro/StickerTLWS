@@ -1,4 +1,7 @@
 # StickerTLWS
+
+https://imgur.com/4z5GrAh
+
 ## App Android para mover suas figurinhas e GIFs do Telegram diretamente para o WhatsApp com facilidade e rapidez.
 
 ## Página de Releases para baixar o APK: [clique aqui](https://github.com/Oyukihiro/StickerTLWS/releases).
