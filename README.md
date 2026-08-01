@@ -77,11 +77,3 @@ O StickerTLWS gerencia automaticamente essas limitações para garantir que a ex
 Contribuições são sempre bem-vindas!
 
 Sinta-se à vontade para abrir uma **Issue**, enviar um **Pull Request** ou sugerir melhorias para o projeto.
-
-### 🐞 Encontrou algum problema?
-
-Abra uma **Issue** descrevendo o problema com o máximo de detalhes possível.
-* **Hilt** — Injeção de dependências.
-* **Coil** — Carregamento eficiente de imagens e GIFs.
-* **Lottie** — Renderização de figurinhas TGS.
-* **WebP Android** — Codificação de imagens WebP compatíveis com o WhatsApp.
