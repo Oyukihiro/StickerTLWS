@@ -81,14 +81,6 @@ Sinta-se à vontade para abrir uma **Issue**, enviar um **Pull Request** ou suge
 ### 🐞 Encontrou algum problema?
 
 Abra uma **Issue** descrevendo o problema com o máximo de detalhes possível.
-
----
-
-# Créditos
-
-* **TDLib** — Integração oficial com o Telegram.
-* **FFmpeg Kit** — Conversão de vídeos e animações.
-* **Jetpack Compose** — Construção da interface moderna.
 * **Hilt** — Injeção de dependências.
 * **Coil** — Carregamento eficiente de imagens e GIFs.
 * **Lottie** — Renderização de figurinhas TGS.
