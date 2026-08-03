@@ -18,8 +18,8 @@ Baixe a versão mais recente do APK na página de **Releases**:
 
 * 📦 **Integração nativa com o Telegram**
 
-  * Faça login com seu número e acesse instantaneamente todos os seus pacotes de figurinhas utilizando a TDLib.
-
+  * Faça login com seu número e acesse instantaneamente todos os seus pacotes de figurinhas.
+  
 * 🔄 **Conversão inteligente**
 
   * Converte figurinhas estáticas, animadas (TGS) e em vídeo (WebM) para formatos compatíveis com o WhatsApp.
@@ -28,21 +28,13 @@ Baixe a versão mais recente do APK na página de **Releases**:
 
   * Exporte seus GIFs salvos no Telegram como pacotes de figurinhas animadas.
 
-* 🎨 **Interface moderna**
-
-  * Desenvolvida inteiramente com Jetpack Compose e Material 3, utilizando efeitos de Glassmorphism e animações fluidas.
-
 * 🌎 **Suporte a múltiplos idiomas**
 
-  * Disponível em Português (Brasil) e Inglês, com troca rápida de idioma na tela inicial.
+  * Disponível em Português (Brasil) e Inglês.
 
 * 📁 **Gerenciamento de pacotes**
 
   * Visualize, exclua e gerencie facilmente os pacotes já exportados.
-
-* 🔍 **Pré-visualização das figurinhas**
-
-  * Pressione e segure uma figurinha para visualizar um zoom animado antes da exportação.
 
 ---
 
@@ -62,7 +54,7 @@ Baixe a versão mais recente do APK na página de **Releases**:
 
 ### 🔒 Privacidade
 
-O StickerTLWS utiliza a **TDLib**, biblioteca oficial do Telegram. Suas credenciais são enviadas diretamente aos servidores do Telegram para autenticação.
+O StickerTLWS utiliza a biblioteca oficial do Telegram. Suas credenciais são enviadas diretamente aos servidores do Telegram para autenticação.
 
 O aplicativo **não armazena mensagens, contatos ou conversas**. Apenas acessa seus pacotes de figurinhas e GIFs necessários para a exportação.
 
