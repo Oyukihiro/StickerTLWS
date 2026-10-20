@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://i.ibb.co/4Rx18Yyq/ic-launcher-web.png" alt="Logo do StickerTLWS" width="120">
+
 # StickerTLWS
 
 **Leve seus stickers do Telegram para o WhatsApp.**
